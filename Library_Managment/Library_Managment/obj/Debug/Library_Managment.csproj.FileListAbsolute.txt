@@ -1,0 +1,15 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\bin\Debug\Library_Managment.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\bin\Debug\Library_Managment.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\bin\Debug\Library_Managment.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.pdb
+C:\Users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.Dashboard.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.Addbook.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.ViewBook.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.AddStudent.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.ViewStudentInfromation.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\Library_Managment\Library_Managment\obj\Debug\Library_Managment.IssueBooks.resources
