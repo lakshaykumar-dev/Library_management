@@ -1,1 +1,2 @@
-# Library_management by lakshay kumar mca student
+# Library_management 
+# Lakshay Kumar (MCA Student)
